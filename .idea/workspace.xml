@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf3368b9-dbe6-413d-a2fd-b055f0426fd4" name="Default Changelist" comment="" />
+    <list default="true" id="bf3368b9-dbe6-413d-a2fd-b055f0426fd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/HttpAdmin/Controllers/Base/AdminBaseController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/HttpAdmin/Controllers/Base/AdminUserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/HttpAdmin/Exporters/AdminUserExporter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/HttpAdmin/routes/init_routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/HttpAdmin/routes/work_routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Base/AdminUser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/custom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/seeds/InitMenuSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/seeds/InitUserSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/zh-CN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/partials/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/partials/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/partials/sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/hub/huo-generator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/hub/huo-lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/hub/huo-lib_dev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lara191010.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lara191010.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,49 +40,94 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Arr.php">
+        <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/MakeControllerCommand.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1933">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="264">
+              <caret line="136" column="43" selection-start-line="136" selection-start-column="43" selection-end-line="136" selection-end-column="43" />
               <folding>
-                <element signature="e#38#54#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/helpers.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1749" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/LazyCollection.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding>
-                <element signature="e#38#56#0#PHP" expanded="true" />
+                <element signature="e#56#106#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Str.php">
+        <entry file="file://$PROJECT_DIR$/app/HttpAdmin/routes/init_routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            <state relative-caret-position="365">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/make_controller/extends_controller.stub.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/HttpAdmin/routes/work_routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/PostController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/Base/AuthController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/HttpAdmin/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/ResourceGenerator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1230">
+              <caret line="181" selection-start-line="181" selection-end-line="194" selection-end-column="5" />
               <folding>
-                <element signature="e#38#78#0#PHP" expanded="true" />
+                <element signature="e#1740#4451#0#PHP" />
+                <element signature="e#4457#4845#0#PHP" />
               </folding>
             </state>
           </provider>
@@ -59,7 +135,107 @@
       </file>
     </leaf>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>auth:api</find>
+      <find>App\Admin\</find>
+      <find>App\Admin\Extensions</find>
+      <find>prependRowSelectorColumn</find>
+      <find>renderCreateButton</find>
+      <find>ColumnSelector</find>
+      <find>renderColumnSelector</find>
+      <find>appendActionsColumn</find>
+      <find>renderRefreshButton</find>
+      <find>redirectAfterSaving</find>
+      <find>stub</find>
+      <find>The &quot;stub&quot; option does</find>
+      <find>option does</find>
+      <find>des_dir</find>
+      <find>APP_URL</find>
+      <find>Str::plural(Str::snake($this-&gt;controller_name))</find>
+      <find>plu</find>
+      <find>AuthController</find>
+      <find>controller_stub_path</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>Huojunhao</replace>
+      <replace>Huojunhao\LaraAdmin</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/storage/hub/huo-lara_admin</dir>
+      <dir>$PROJECT_DIR$/vendor/encore/laravel-admin/src</dir>
+      <dir>$PROJECT_DIR$/vendor/encore/laravel-admin</dir>
+      <dir>$PROJECT_DIR$/config</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Form/Field/Time.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Form/Field/Url.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Form/Footer.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Form/Tools.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Form/Builder.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Exception/Handler.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Form/Field/DateRange.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Displayers/Actions.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Displayers/RowSelector.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Filter/Presenter/DateTime.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Filter/Presenter/PresenterCommonTrait.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Filter/Presenter/Select.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Filter/Presenter/Text.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Filter/Between.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Filter/FilterCommonTrait.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Filter/Like.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Filter/Where.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Tools/BatchActions.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Tools/BatchDelete.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Tools/CreateButton.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Tools/ExportButton.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Tools/FilterButton.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Filter.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Model.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Grid/Tools.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/ChildAdmin.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/composer.json" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lib/composer.json" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lib_dev/composer.json" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/LaraAdminServiceProvider.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-generator/composer.json" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/ResourceGenerator.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/make/controller.stub" />
+        <option value="$PROJECT_DIR$/app/HttpAdmin/routes/extend_routes.php" />
+        <option value="$PROJECT_DIR$/app/HttpAdmin/routes.php" />
+        <option value="$PROJECT_DIR$/app/HttpAdmin/routes/init_routes.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/MakeCommand.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/make_controller/controller.stub" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/LaraAdminGeneratorServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/HttpAdmin/Controllers/TTController.php" />
+        <option value="$PROJECT_DIR$/app/HttpAdmin/Controllers/Base/AdminBaseController.php" />
+        <option value="$PROJECT_DIR$/app/HttpAdmin/Controllers/TestController.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/make_controller/controller.stub.php" />
+        <option value="$PROJECT_DIR$/app/HttpAdmin/Controllers/PostController.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/config/admin.php" />
+        <option value="$PROJECT_DIR$/app/HttpAdmin/Controllers/TT.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/make_controller/extends_controller.stub.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/MakeControllerCommand.php" />
+        <option value="$PROJECT_DIR$/app/HttpAdmin/routes/work_routes.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="127.0.0.1" id="39324baf-def0-4ba5-9e14-a0b1f2d990ed" name="127.0.0.1" port="8000" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
@@ -146,6 +322,31 @@
       <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lib" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lib_dev" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/generator" />
+      <path value="$PROJECT_DIR$/vendor/encore/laravel-admin" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin_generator" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
@@ -153,12 +354,13 @@
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -175,67 +377,200 @@
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="HttpAdmin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="HttpAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="HttpAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="laravel" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="HttpAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="laravel" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-generator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="laravel" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-generator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Illuminate" type="462c0819:PsiDirectoryNode" />
+              <item name="HuoMakeStubs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="laravel" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-generator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Illuminate" type="462c0819:PsiDirectoryNode" />
-              <item name="Support" type="462c0819:PsiDirectoryNode" />
+              <item name="HuoMakeStubs" type="462c0819:PsiDirectoryNode" />
+              <item name="makeStubs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin_generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+              <item name="stubs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+              <item name="stubs" type="462c0819:PsiDirectoryNode" />
+              <item name="make_controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lib_dev" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571053566360" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/make_controller" />
+      <recent name="$PROJECT_DIR$/app/HttpAdmin/Controllers" />
+      <recent name="$PROJECT_DIR$/app/Models" />
+      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs" />
+      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/make" />
+      <recent name="$PROJECT_DIR$/app/Models/Base" />
+      <recent name="$PROJECT_DIR$/app/HttpAdmin/Controllers/Base" />
+      <recent name="$PROJECT_DIR$/storage/hub/huo-generator/resources/Models/Models" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -249,11 +584,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.hg:adminc">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
+    <configuration name="hg:adminc" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/artisan" scriptParameters="hga:adminc Post">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.hg:adminc" />
+      <item itemvalue="PHPUnit.phpunit.xml" />
+    </list>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",Show Fields" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -265,25 +610,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570689642629</updated>
-      <workItem from="1570689646440" duration="1534000" />
+      <workItem from="1570689646440" duration="4313000" />
+      <workItem from="1570770870077" duration="16870000" />
+      <workItem from="1570969227582" duration="255000" />
+      <workItem from="1571042149700" duration="4844000" />
+      <workItem from="1571051615502" duration="1876000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1534000" />
+    <option name="totallyTimeSpent" value="28158000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.25894135" />
+      <window_info id="Structure" order="1" sideWeight="0.5035461" side_tool="true" weight="0.25894135" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="6" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Terminal" order="9" visible="true" weight="0.32188842" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992908" visible="true" weight="0.24821173" />
+      <window_info id="Structure" order="1" sideWeight="0.50070924" side_tool="true" weight="0.2532189" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -294,6 +674,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -303,45 +684,343 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info active="true" anchor="right" id="Terminal" order="9" visible="true" weight="0.32904148" />
-    </layout>
+      <window_info anchor="right" id="Terminal" order="9" visible="true" weight="0.32188842" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/MakeControllerCommand.php</url>
+          <line>94</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/MakeControllerCommand.php</url>
+          <line>318</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/MakeControllerCommand.php</url>
+          <line>204</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/MakeControllerCommand.php</url>
+          <line>360</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/MakeControllerCommand.php</url>
+          <line>131</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/MakeControllerCommand.php</url>
+          <line>142</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/MakeControllerCommand.php</url>
+          <line>84</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Arr.php">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1933">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="348">
+          <caret line="81" column="10" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-generator/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/extension/view.stub" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/AuthController.stub" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/action.stub" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/AdminTablesSeeder.stub" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/bootstrap.stub" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/ExampleController.stub" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/form.stub" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/make_controller/blank.stub" />
+    <entry file="file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/AdminServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="134" column="28" lean-forward="true" selection-start-line="134" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/Core/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="517" column="9" selection-start-line="517" selection-start-column="9" selection-end-line="517" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Console/MakeCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="200" column="23" selection-start-line="200" selection-start-column="23" selection-end-line="200" selection-end-column="23" />
           <folding>
-            <element signature="e#38#54#0#PHP" expanded="true" />
+            <element signature="e#38#75#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/helpers.php">
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/Test.php" />
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1749" />
+        <state relative-caret-position="450">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+          <folding>
+            <element signature="e#469#491#0#PHP" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/LazyCollection.php">
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/console/Command/Command.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3615">
+          <caret line="257" selection-start-line="257" selection-end-line="257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Console/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Post.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artisan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-generator/src/HuoMake/HuoMakeMigration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-generator/src/HuoMake/HuoMakeMake.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-generator/src/HuoMakeStubs/makeStubs/command.stub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="71" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdminTTController.php" />
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/AdminBaseController.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Controllers/HasResourceActions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/Base/AdminBaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/TestController.php" />
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/Base/AdminUserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/LaraAdminGeneratorServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/HAHAController.php" />
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-generator/src/HuoMake/Utils/HuoMakeBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/make_controller/controller.stub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
           <folding>
-            <element signature="e#38#56#0#PHP" expanded="true" />
+            <element signature="e#45#100#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Str.php">
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/console/Application.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        <state relative-caret-position="1650">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/ResourceGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="181" selection-start-line="181" selection-end-line="194" selection-end-column="5" />
           <folding>
-            <element signature="e#38#78#0#PHP" expanded="true" />
+            <element signature="e#1740#4451#0#PHP" />
+            <element signature="e#4457#4845#0#PHP" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/T.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/Base/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/TT.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-generator/src/HuoMake/Utils/HuoMakeTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="104" column="23" selection-start-line="104" selection-start-column="23" selection-end-line="104" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/TTController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/TTtController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/make_controller/extends_controller.stub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/MakeControllerCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="136" column="43" selection-start-line="136" selection-start-column="43" selection-end-line="136" selection-end-column="43" />
+          <folding>
+            <element signature="e#56#106#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/routes/work_routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/PostController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/routes/init_routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>

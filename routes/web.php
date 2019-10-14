@@ -11,6 +11,14 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+
+Route::get('/sign',function (){
+   echo \Illuminate\Support\Facades\URL::temporarySignedRoute('haha',now()->addSeconds(20),[
+       'id' => '444'
+   ]) ;
 });
+Route::get('/{id?}', function (\Illuminate\Http\Request $request,$id=null) {
+dd($request->hasValidSignature());
+    return view('welcome');
+})->name('haha')->middleware(\Illuminate\Routing\Middleware\ValidateSignature::class);
+
