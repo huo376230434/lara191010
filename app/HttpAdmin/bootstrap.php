@@ -24,6 +24,7 @@ use Encore\Admin\Grid;
 Encore\Admin\Form::forget(['map', 'editor']);
 
 app('view')->prependNamespace('admin', resource_path('views/admin'));
+//app('view')->prependNamespace('admine', resource_path('views/admine'));
 
 
 Grid::init(function (Grid $grid) {

@@ -34,4 +34,25 @@ app('router')->group($attributes, function ($router) {
     $router->get('auth/logout', $authController.'@getLogout')->name('admin.logout');
     $router->get('auth/setting', $authController.'@getSetting')->name('admin.setting');
     $router->put('auth/setting', $authController.'@putSetting');
+
+
+
+    $router->group(['namespace' => config('admin.route.namespace')],function(\Illuminate\Routing\Router $router){
+
+
+        $router->get('mysqlBackup/mysqlToHtml', 'Base\MysqlBackupController@mysqlToHtml');
+
+        $router->get("mysqlBackup/download/{name}","Base\MysqlBackupController@download") ;
+        $router->post("mysqlBackup/recover","Base\MysqlBackupController@recover") ;
+        $router->post("mysqlBackup/del","Base\MysqlBackupController@del") ;
+        $router->any("mysqlBackup/backup","Base\MysqlBackupController@backup") ;
+        $router->resource("mysqlBackup", Base\MysqlBackupController::class)->except(['show']);
+
+
+    });
+
+
+
+
+
 });

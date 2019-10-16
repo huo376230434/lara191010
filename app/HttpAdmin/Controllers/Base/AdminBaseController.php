@@ -23,4 +23,9 @@ class AdminBaseController extends AdminController{
         return '';
     }
 
+    protected function actionLog($msg)
+    {
+
+    }
+
 }
