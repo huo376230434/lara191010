@@ -33,7 +33,7 @@ CREATE TABLE `admin_menu` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -42,7 +42,7 @@ CREATE TABLE `admin_menu` (
 
 LOCK TABLES `admin_menu` WRITE;
 /*!40000 ALTER TABLE `admin_menu` DISABLE KEYS */;
-INSERT INTO `admin_menu` VALUES (1,0,3,'管理员管理','fa-users','auth/users',NULL,NULL,NULL);
+INSERT INTO `admin_menu` VALUES (1,0,3,'管理员管理','fa-users','auth/users',NULL,NULL,NULL),(2,0,4,'Log viewer','fa-database','logs',NULL,'2019-10-16 09:56:02','2019-10-16 09:56:02');
 /*!40000 ALTER TABLE `admin_menu` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -64,7 +64,7 @@ CREATE TABLE `admin_users` (
   `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `admin_users_username_unique` (`username`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -73,7 +73,7 @@ CREATE TABLE `admin_users` (
 
 LOCK TABLES `admin_users` WRITE;
 /*!40000 ALTER TABLE `admin_users` DISABLE KEYS */;
-INSERT INTO `admin_users` VALUES (1,'admin','$2y$10$AsOxp..cAk0GMp/7GXrv8.g3zELyWgS1FxxoRFXpFh7HgCHdaQ3dO','超级管理员',NULL,'Xl9lgr6M8ORJGEax0TPiPqVxMDqIad4Gu83uauTUuaGhek0VH7UknazUokCq','2019-10-10 23:05:47','2019-10-10 23:05:47');
+INSERT INTO `admin_users` VALUES (1,'admin','$2y$10$AsOxp..cAk0GMp/7GXrv8.g3zELyWgS1FxxoRFXpFh7HgCHdaQ3dO','超级管理员','images/832b2a83d8340c71a25e11563c3669f5.png','fXpnWNnuhJ5JtLOdAbKwFqXiNbBa20ZH2hxidbxqKJZDOMshgKa0SuLBg1iV','2019-10-10 23:05:47','2019-10-16 09:51:24');
 /*!40000 ALTER TABLE `admin_users` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -219,4 +219,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-10-16 17:34:09
+-- Dump completed on 2019-10-16 18:06:37

@@ -29,19 +29,17 @@ app('view')->prependNamespace('admin', resource_path('views/admin'));
 
 Grid::init(function (Grid $grid) {
 
-
     $grid->disableColumnSelector();
-
 });
 
 
 Form::init(function (Form $form) {
 
-//    $form->disableEditingCheck();
+    $form->disableEditingCheck();
 //
-//    $form->disableCreatingCheck();
+    $form->disableCreatingCheck();
 //
-//    $form->disableViewCheck();
+    $form->disableViewCheck();
 
     $form->tools(function (Form\Tools $tools) {
         $tools->disableDelete();

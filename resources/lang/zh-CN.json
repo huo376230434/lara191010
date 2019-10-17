@@ -11,5 +11,7 @@
     "Roles" : "角色",
     "Gender": "性别",
     "Phone model": "手机型号",
-    "Check results": "检测结果"
+    "Check results": "检测结果",
+    "Description": "简介",
+    "Config value": "配置值"
 }

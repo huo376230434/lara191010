@@ -33,27 +33,27 @@ class PostController extends AdminBaseController
         $grid = new Grid(new \App\Models\Post);
 
         $grid->column('id', __('Id'));
-$grid->column('title', __('Title'));
-$grid->column('content', __('Content'));
-$grid->column('created_at', __('Created at'));
-$grid->column('updated_at', __('Updated at'));
+        $grid->column('title', __('Title'));
+        $grid->column('content', __('Content'));
+        $grid->column('created_at', __('Created at'));
+        $grid->column('updated_at', __('Updated at'));
 
-$grid->actions(function(Grid\Displayers\Actions $actions){
-    $form = new Form(new Post);
-    $form->plainForm();
-    $form->text("tt", "adsf");
-    $form->textarea("tttt", "adsf");
-    $form->setAction('/asdf');
+        $grid->actions(function(Grid\Displayers\Actions $actions){
+            $form = new Form(new Post);
+            $form->plainForm();
+            $form->text("tt", "adsf");
+            $form->textarea("tttt", "adsf");
+            $form->setAction('/asdf');
 
-    $actions->append(view('test.modal',[
-        'form' => $form
-    ]));
-    $actions->append(NormalLink::obj("test", ''));
-    $actions->append(DoWithConfirm::obj('haha','uuu')->setMsg("真的吗？")->setColorType('danger')->setAddonClass(""));
-    $actions->append(NormalLink::obj('normal','http://www.baidu.com')->isBtn()->setColorType('danger')->blank());
-    $actions->append(NormalLink::obj("test", 'http://www.baidu.com'));
-    $actions->append(NormalLink::obj("test1", 'http://www.baidu.com','danger')->blank());
-});
+            $actions->append(view('test.modal',[
+                'form' => $form
+            ]));
+            $actions->append(NormalLink::obj("test", ''));
+            $actions->append(DoWithConfirm::obj('haha','uuu')->setMsg("真的吗？")->setColorType('danger')->setAddonClass(""));
+            $actions->append(NormalLink::obj('normal','http://www.baidu.com')->isBtn()->setColorType('danger')->blank());
+            $actions->append(NormalLink::obj("test", 'http://www.baidu.com'));
+            $actions->append(NormalLink::obj("test1", 'http://www.baidu.com','danger')->blank());
+        });
         return $grid;
     }
 
@@ -68,10 +68,10 @@ $grid->actions(function(Grid\Displayers\Actions $actions){
         $show = new Show(\App\Models\Post::findOrFail($id));
 
         $show->field('id', __('Id'));
-$show->field('title', __('Title'));
-$show->field('content', __('Content'));
-$show->field('created_at', __('Created at'));
-$show->field('updated_at', __('Updated at'));
+        $show->field('title', __('Title'));
+        $show->field('content', __('Content'));
+        $show->field('created_at', __('Created at'));
+        $show->field('updated_at', __('Updated at'));
 
 
         return $show;
@@ -87,7 +87,7 @@ $show->field('updated_at', __('Updated at'));
         $form = new Form(new \App\Models\Post);
 
         $form->text('title', __('Title'));
-$form->textarea('content', __('Content'));
+        $form->textarea('content', __('Content'));
 
 
         return $form;

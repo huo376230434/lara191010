@@ -2,10 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/storage/hub/huo-dusk_extend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/storage/hub/huo-generator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/storage/hub/huo-lara_admin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/storage/hub/huo-lib" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/storage/hub/huo-lib_dev" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/storage/test/browser-extend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/storage/test/config" vcs="Git" />
   </component>
 </project>

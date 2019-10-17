@@ -22,6 +22,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/facade/flare-client-php" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/facade/ignition" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/facebook/webdriver" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/fideloper/proxy" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/filp/whoops" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/fzaninotto/faker" />
@@ -29,6 +30,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/guzzlehttp/promises" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/guzzlehttp/psr7" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/huojunhao/dusk_extend" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/huojunhao/generator" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/huojunhao/lara_admin" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/huojunhao/lara_admin_generator" />
@@ -37,6 +39,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/jakub-onderka/php-console-color" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/jakub-onderka/php-console-highlighter" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/justinrainbow/json-schema" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/dusk" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/framework" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/tinker" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/league/flysystem" />

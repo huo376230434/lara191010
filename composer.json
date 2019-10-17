@@ -22,12 +22,14 @@
         "barryvdh/laravel-ide-helper": "^2.6",
         "facade/ignition": "^1.4",
         "fzaninotto/faker": "^1.4",
+        "huojunhao/dusk_extend": "dev-master",
         "huojunhao/generator": "dev-master",
         "huojunhao/lib_dev": "dev-master",
+        "laravel/dusk": "^5.5",
+        "laravel/tinker": "^1.0",
         "mockery/mockery": "^1.0",
         "nunomaduro/collision": "^3.0",
-        "phpunit/phpunit": "^8.0",
-        "laravel/tinker": "^1.0"
+        "phpunit/phpunit": "^8.0"
     },
     "config": {
         "optimize-autoloader": true,
@@ -87,7 +89,12 @@
         {
             "type": "path",
             "url": "./storage/hub/huo-lara_admin_generator"
+        },
+        {
+            "type": "path",
+            "url": "storage/hub/huo-dusk_extend"
         }
+
 
     ]
 }

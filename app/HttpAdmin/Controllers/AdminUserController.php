@@ -1,14 +1,15 @@
 <?php
 
-namespace App\HttpAdmin\Controllers\Base;
+namespace App\HttpAdmin\Controllers;
 
+use App\HttpAdmin\Controllers\Base\AdminBaseController;
 use App\HttpAdmin\Exporters\AdminUserExporter;
-use Encore\Admin\Controllers\AdminController;
-use Encore\Admin\Form;
-use Encore\Admin\Grid;
-use Encore\Admin\Show;
+use Huojunhao\LaraAdmin\Form;
+use Huojunhao\LaraAdmin\Grid;
+use Huojunhao\LaraAdmin\Show;
 
-class AdminUserController extends AdminController
+
+class AdminUserController extends AdminBaseController
 {
     /**
      * {@inheritdoc}

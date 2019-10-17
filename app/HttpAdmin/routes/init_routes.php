@@ -37,16 +37,43 @@ app('router')->group($attributes, function ($router) {
 
 
 
+
+
+
+    $router->group(['namespace' => "Huojunhao\LaraAdmin\BaseExtends\Plugins"],function(\Illuminate\Routing\Router $router){
+
+
+
+//        日志
+        /* @var \Illuminate\Routing\Router $router */
+        $router->get('logs', 'Log\LogController@index')->name('log-viewer-index');
+        $router->get('logs/{file}', 'Log\LogController@index')->name('log-viewer-file');
+        $router->get('logs/{file}/tail', 'Log\LogController@tail')->name('log-viewer-tail');
+
+
+//        数据库
+        $router->get('mysqlBackup/mysqlToHtml', 'Mysql\MysqlBackupController@mysqlToHtml');
+        $router->get("mysqlBackup/download/{name}","Mysql\MysqlBackupController@download") ;
+        $router->post("mysqlBackup/recover","Mysql\MysqlBackupController@recover") ;
+        $router->post("mysqlBackup/del","Mysql\MysqlBackupController@del") ;
+        $router->any("mysqlBackup/backup","Mysql\MysqlBackupController@backup") ;
+        $router->resource("mysqlBackup", Mysql\MysqlBackupController::class)->except(['show']);
+
+//        配置
+        /* @var \Illuminate\Routing\Router $router */
+        $router->resource(
+            config('admin.extensions.config.name', 'configs'),
+            config('admin.extensions.config.controller', 'Config\ConfigController')
+        );
+
+
+    });
+
+
     $router->group(['namespace' => config('admin.route.namespace')],function(\Illuminate\Routing\Router $router){
 
 
-        $router->get('mysqlBackup/mysqlToHtml', 'Base\MysqlBackupController@mysqlToHtml');
-
-        $router->get("mysqlBackup/download/{name}","Base\MysqlBackupController@download") ;
-        $router->post("mysqlBackup/recover","Base\MysqlBackupController@recover") ;
-        $router->post("mysqlBackup/del","Base\MysqlBackupController@del") ;
-        $router->any("mysqlBackup/backup","Base\MysqlBackupController@backup") ;
-        $router->resource("mysqlBackup", Base\MysqlBackupController::class)->except(['show']);
+//
 
 
     });

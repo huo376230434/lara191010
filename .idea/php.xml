@@ -112,6 +112,9 @@
       <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
       <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin" />
       <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin_generator" />
+      <path value="$PROJECT_DIR$/vendor/facebook/webdriver" />
+      <path value="$PROJECT_DIR$/vendor/laravel/dusk" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/dusk_extend" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
