@@ -10,3 +10,8 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+
+/phpunitdusklog.xml
+/phpunitlog.xml
+/public/testdox.html
+/public/testduskdox.html

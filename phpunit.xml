@@ -30,4 +30,10 @@
         <server name="QUEUE_CONNECTION" value="sync"/>
         <server name="SESSION_DRIVER" value="array"/>
     </php>
+
+    <logging>
+        <log type="junit" target="phpunitlog.xml"/>
+        <log type="testdox-html" target="public/testdox.html"/>
+    </logging>
+
 </phpunit>
