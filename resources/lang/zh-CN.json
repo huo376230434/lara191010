@@ -13,5 +13,7 @@
     "Phone model": "手机型号",
     "Check results": "检测结果",
     "Description": "简介",
-    "Config value": "配置值"
+    "Config value": "配置值",
+    "Message" : "信息",
+    "Admin user Name" : "管理员名称"
 }

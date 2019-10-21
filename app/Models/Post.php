@@ -25,6 +25,4 @@ class Post extends BaseModel
 
 
 
-
-    //
 }

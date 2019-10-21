@@ -1,6 +1,7 @@
 <?php
 namespace App\Models\Base;
 use Encore\Admin\Auth\Database\Administrator;
+use Huojunhao\Lib\Models\BaseModelTrait;
 
 /**
  * Created by IntelliJ IDEA.
@@ -9,7 +10,7 @@ use Encore\Admin\Auth\Database\Administrator;
  * Time: 15:24
  */
 class AdminUser extends Administrator{
-
+use BaseModelTrait;
     protected static function boot()
     {
         static::bootTraits();
