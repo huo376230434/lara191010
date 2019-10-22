@@ -3,6 +3,7 @@
 namespace App\Console\Commands\Daily;
 
 use Illuminate\Console\Command;
+use Illuminate\Support\Str;
 
 class PrimaryTest extends Command
 {
@@ -37,6 +38,7 @@ class PrimaryTest extends Command
      */
     public function handle()
     {
+        dd(Str::snake('LaraAdminGenerator'));
         dd(config('admin.name'));
         throw new \Exception("haha");
 

@@ -8,7 +8,7 @@ use Laravel\Dusk\Browser;
 
 trait AdminBaseTraitTest{
 
-    use OperateFlowTraitTest;
+//    use SysOperateLogTraitTest;
 
 
     protected function AdminBase(\Closure $callback,$url='',$times=1)
