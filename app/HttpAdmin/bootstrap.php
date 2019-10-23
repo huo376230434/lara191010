@@ -26,24 +26,3 @@ Encore\Admin\Form::forget(['map', 'editor']);
 app('view')->prependNamespace('admin', resource_path('views/admin'));
 //app('view')->prependNamespace('admine', resource_path('views/admine'));
 
-
-Grid::init(function (Grid $grid) {
-
-    $grid->disableColumnSelector();
-});
-
-
-Form::init(function (Form $form) {
-
-    $form->disableEditingCheck();
-//
-    $form->disableCreatingCheck();
-//
-    $form->disableViewCheck();
-
-    $form->tools(function (Form\Tools $tools) {
-        $tools->disableDelete();
-        $tools->disableView();
-        $tools->disableList();
-    });
-});

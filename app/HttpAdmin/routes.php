@@ -13,3 +13,5 @@ Route::group([
     $router->get('/', 'HomeController@index')->name('admin.home');
 
 });
+
+\Huojunhao\LaraAdmin\BaseExtends\AdminUtil::defaultBootstrap();

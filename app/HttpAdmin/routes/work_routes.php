@@ -14,4 +14,4 @@ $router->resource('operate_flows', OperateFlowController::class);
 
 $router->resource('tests', TestController::class);
 
-$router->resource('sys_operate_logs', SysOperateLogController::class);
+

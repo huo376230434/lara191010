@@ -175,6 +175,12 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+
+
+        //自己的Provider
+//        \App\Providers\TenancyServiceProvider::class
+//        \App\Providers\MerchantServiceProvider::class
+
     ],
 
     /*
@@ -225,6 +231,8 @@ return [
         'URL' => Illuminate\Support\Facades\URL::class,
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
+//        'Tenancy' => \App\HttpTenancy\Facades\Tenancy::class
+//        'Merchant' => \App\HttpMerchant\Facades\Merchant::class
 
     ],
 

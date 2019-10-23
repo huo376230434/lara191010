@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateSysAreasTable extends Migration
+class CreateTestSysCitiesTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,7 +13,7 @@ class CreateSysAreasTable extends Migration
      */
     public function up()
     {
-        Schema::create('sys_areas', function (Blueprint $table) {
+        Schema::create('test_sys_cities', function (Blueprint $table) {
             $table->increments('id')->comment("主键ID");
             $table->string('name',150)->nullable()->comment('名称');
             $table->unsignedInteger('parent_id')->default(0)->comment('');
@@ -24,7 +24,7 @@ class CreateSysAreasTable extends Migration
 //            $table->dateTime("created_at")->comment("创建时间");
 //            $table->dateTime("updated_at")->comment("更新时间");
         });
-        DB::statement("ALTER TABLE sys_areas comment ' 地区表' ");//表注释
+        DB::statement("ALTER TABLE test_sys_cities comment ' 地区表' ");//表注释
 
     }
 
@@ -35,6 +35,6 @@ class CreateSysAreasTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('sys_areas');
+        Schema::dropIfExists('test_sys_cities');
     }
 }
