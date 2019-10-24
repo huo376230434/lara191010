@@ -1,0 +1,19 @@
+{
+    "name": "huojunhao/generator",
+    "require": {
+        "laravel/framework": "^6.0"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Huojunhao\\Generator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Huojunhao\\Generator\\GeneratorServiceProvider"
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "huojunhao/lara_admin",
+    "require": {
+        "laravel/framework": "^6.0",
+        "encore/laravel-admin": "^1.7",
+        "maatwebsite/excel": "^3.1"
+
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Huojunhao\\LaraAdmin\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Huojunhao\\LaraAdmin\\LaraAdminServiceProvider"
+            ]
+        }
+    }
+}

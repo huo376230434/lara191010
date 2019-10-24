@@ -1,0 +1,18 @@
+{
+    "name": "huojunhao/dusk_extend",
+    "require": {
+        "laravel/framework": ">=5.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Huojunhao\\DuskExtend\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Huojunhao\\DuskExtend\\DuskExtendServiceProvider"
+            ]
+        }
+    }
+}
