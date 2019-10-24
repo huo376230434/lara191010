@@ -5,6 +5,7 @@
 
 use Encore\Admin\Controllers\AuthController;
 
+
 //dd(3);
 $attributes = [
     'prefix'     => config('admin.route.prefix'),
@@ -12,6 +13,10 @@ $attributes = [
 ];
 
 app('router')->group($attributes, function ($router) {
+
+
+
+
 
     /* @var \Illuminate\Support\Facades\Route $router */
     $router->namespace('\Encore\Admin\Controllers')->group(function ($router) {
@@ -71,6 +76,9 @@ app('router')->group($attributes, function ($router) {
 
 
     $router->group(['namespace' => config('admin.route.namespace')],function(\Illuminate\Routing\Router $router){
+
+//ApiHelper
+        $router->any('/apihelper/{model}/{method}/{primary?}',"Base\ApiHelperController@index");
 
 
 //

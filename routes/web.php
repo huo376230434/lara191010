@@ -17,8 +17,5 @@ Route::get('/sign',function (){
        'id' => '444'
    ]) ;
 });
-Route::get('/{id?}', function (\Illuminate\Http\Request $request,$id=null) {
-dd($request->hasValidSignature());
-    return view('welcome');
-})->name('haha')->middleware(\Illuminate\Routing\Middleware\ValidateSignature::class);
 
+$router->any('/apihelper/{model}/{method}/{primary?}',"ApiHelperController@index");
