@@ -11,7 +11,5 @@ Route::group([
 ], function (Router $router) {
     require __DIR__."/routes/work_routes.php";
     $router->get('/', 'HomeController@index')->name('admin.home');
-
 });
 
-\Huojunhao\LaraAdmin\BaseExtends\AdminUtil::defaultBootstrap();

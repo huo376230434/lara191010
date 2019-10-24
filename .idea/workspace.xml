@@ -2,12 +2,320 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf3368b9-dbe6-413d-a2fd-b055f0426fd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/hub/huo-dusk_extend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/hub/huo-generator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/hub/huo-lara_admin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/hub/huo-lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/hub/huo-lib_dev" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/HttpAdmin/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/HttpAdmin/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/HttpAdmin/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/HttpAdmin/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/HttpAdmin/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/HttpAdmin/routes.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/InitUserSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/InitUserSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lara191010.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lara191010.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/custom_admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/custom_admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-dusk_extend/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-dusk_extend/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-dusk_extend/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-dusk_extend/src/DuskExtendServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-dusk_extend/src/DuskExtendTestBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-dusk_extend/src/_my_ide_helper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-dusk_extend/src/bin/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-generator/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/resources/Models/Models/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/resources/quickdev/quickdev/database.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/resources/quickdev/quickdev/factory/aashim.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/resources/quickdev/quickdev/factory/aatotal_config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/GeneratorServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/GeneratorServiceProviderTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeMake.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeMake.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeMake.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeMigration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeModels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakePackage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakePackage.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakePackage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/MakeException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/makeStubs/command.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/makeStubs/test.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/migrationStubs/add_column_migration_stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/migrationStubs/create_migration_stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/migrationStubs/drop_column_migration_stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/migrationStubs/model.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/modelsStubs/factory.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/modelsStubs/model.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/modelsStubs/model_relation_trait.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/modelsStubs/model_static_trait.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/packageStubs/dusk.composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/packageStubs/provider.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-lara_admin/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/base/bt3modals/bt3modal.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/base/bt3modals/bt3modal_footer.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/base/bt3modals/modal_pieces/operate_with_msg/operate_with_msg_js.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/base/bt3modals/modal_pieces/operate_with_msg/operate_with_msg_modal.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/base/layout/simple_layout.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/base/pieces/bt3modal_trigger.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/base/pieces/do_with_confirm.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/base/pieces/mysql_to_html.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/base/pieces/normal_link.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/base/plugins/logs.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/content.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/form/plain_form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/grid/table.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/show/panel.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/AdminSelector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/AdminUtil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/AdminViewUtil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Demo/TestBatch.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Form/Area.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Form/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/LogicTraits/Admin/AdminUserTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Plugins/Config/ConfigController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Plugins/Config/ConfigModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Plugins/Log/LogController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Plugins/Log/LogViewer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Plugins/Mysql/MysqlBackup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Plugins/Mysql/MysqlBackupController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Plugins/PluginTestTraits/ConfigTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Plugins/PluginTestTraits/LogTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Plugins/PluginTestTraits/MysqlTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Plugins/PluginTestTraits/PluginBaseTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Widgets/Batch/BatchDoWithConfirm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Widgets/Batch/BatchOperateWithMsg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Widgets/Bt3Modals/BaseBtp3Modal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Widgets/DoWithConfirm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Widgets/NormalLink.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Widgets/NormalLinkTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Widgets/OperateWithMsg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/ChildAdmin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/CusAdmin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Exception/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Facades/Admin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Builder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/CommonFileTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/CommonTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Date.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/DateRange.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Datetime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/DatetimeRange.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Display.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Email.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/File.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Mobile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/MultipleSelect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Number.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Radio.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Select.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Text.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Textarea.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Time.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/TimeRange.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Field/Url.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Form/Tools.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Column.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Displayers/Actions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Displayers/RowSelector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Filter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Filter/Between.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Filter/Equal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Filter/FilterCommonTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Filter/Like.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Filter/Presenter/DateTime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Filter/Presenter/PresenterCommonTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Filter/Presenter/Select.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Filter/Presenter/Text.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Filter/Where.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Model.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Tools.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Tools/BatchActions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Tools/BatchDelete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Tools/ColumnSelector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Tools/CreateButton.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Tools/ExportButton.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Grid/Tools/FilterButton.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/LaraAdminServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Layout/Content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Show.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Show/Panel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Show/Tools.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Tree.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/Widgets/Box.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/HuoMakeArea.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/HuoMakeControllerCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/HuoMakeModule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/HuoMakeOperFlow.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/Utils/HuoLaraAdminMakeBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/Utils/HuoLaraAdminMakeBase.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/Utils/HuoLaraAdminMakeBase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/Utils/MakeException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/areaStubs/area_data/area.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/areaStubs/area_data/area_no_district.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/areaStubs/area_data/area_simple.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/areaStubs/area_migrate.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/areaStubs/area_seeder.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/areaStubs/model.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/areaStubs/unittest.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/makeControllerStubs/browser_base_test.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/makeControllerStubs/browser_test.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/makeControllerStubs/controller.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/makeControllerStubs/extends_controller.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/browser_test/AuthTraitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/browser_test/TenancyBaseTraitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/browser_test/TenancyUserTraitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/config_tenancy.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/Controllers/Base/AuthController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/Controllers/Base/TenancyBaseController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/Controllers/TenancyUserController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/Exporters/TenancyUserExporter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/Extensions/Layout/Content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/Extensions/TenancyException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/Facades/Tenancy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/Middleware/Bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/Middleware/Pjax.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/Tenancy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/helpers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/routes/init_routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/routes/work_routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/migrate_tenancy.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/model_user.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/provider.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/seeder.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/tenancy_view/content.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/tenancy_view/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/tenancy_view/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/tenancy_view/partials/header.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/tenancy_view/partials/menu.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/tenancy_view/partials/sidebar.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/oper_flowStubs/browser_test_trait.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/oper_flowStubs/controller.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/oper_flowStubs/model.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/oper_flowStubs/operate_flows_table_migrate.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/oper_flowStubs/unit_test.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/browser_test/AuthTraitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/browser_test/MerchantBaseTraitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/browser_test/MerchantUserTraitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/config_merchant.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/Controllers/Base/AuthController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/Controllers/Base/MerchantBaseController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/Controllers/MerchantUserController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/Exporters/MerchantUserExporter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/Extensions/Layout/Content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/Extensions/MerchantException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/Facades/Merchant.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/Merchant.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/Middleware/Bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/Middleware/Pjax.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/helpers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/routes/init_routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/http_merchant/routes/work_routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/merchant_view/content.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/merchant_view/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/merchant_view/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/merchant_view/partials/header.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/merchant_view/partials/menu.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/merchant_view/partials/sidebar.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/migrate_merchant.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/model_user.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/provider.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempMerchantStub/seeder.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/browser_test/AuthTraitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/browser_test/TttBaseTraitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/browser_test/TttUserTraitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/config_ttt.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/Controllers/Base/AuthController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/Controllers/Base/TttBaseController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/Controllers/TttUserController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/Exporters/TttUserExporter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/Extensions/Layout/Content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/Extensions/TttException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/Facades/Ttt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/Middleware/Bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/Middleware/Pjax.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/Ttt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/helpers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/routes/init_routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/http_ttt/routes/work_routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/migrate_ttt.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/model_user.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/provider.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/seeder.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/ttt_view/content.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/ttt_view/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/ttt_view/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/ttt_view/partials/header.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/ttt_view/partials/menu.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub/ttt_view/partials/sidebar.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/LaraAdminGeneratorServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-lib/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Base/Curl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Base/FileUtil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Base/FormatConversion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Base/RegPatterns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Base/ScatteredUtil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Base/UrlUtil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Database/MysqlMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Dictionary/BaseDict.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/LibServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/LogicTraits/CodeCheckTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Models/BaseModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Models/BaseModelTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Route/RouteUtil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Utils/Env.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Utils/MigrateUtil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Utils/ParseComments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Utils/SignUtil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Utils/UIHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/UtilsTrait/LimitlessSortTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/UtilsTrait/UnitTestTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/ZTestTraits/Base/CurlTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib_dev/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib_dev/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-lib_dev/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib_dev/src/Console/HuoQuickPushHub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib_dev/src/Console/HuoQuickPushHub.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-lib_dev/src/Console/HuoQuickPushHub.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib_dev/src/Console/HuoSeed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib_dev/src/Faker/FakerTraits/FakerSentence.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib_dev/src/Faker/FakerTraits/FakerTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib_dev/src/Faker/HuoFaker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib_dev/src/Functions/DevHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib_dev/src/LibDevServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/hub/huo-dusk_extend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/hub/huo-generator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/hub/huo-lara_admin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/hub/huo-lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/hub/huo-lib_dev" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,59 +330,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/app.php">
+        <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3465">
-              <caret line="231" column="27" selection-start-line="231" selection-start-column="27" selection-end-line="231" selection-end-column="27" />
+            <state relative-caret-position="210">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2019_10_23_145104_create_test_sys_cities_table.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitmodules">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib_dev/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-dusk_extend/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib_dev/src/LibDevServiceProvider.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Browser/DevTest.php">
+        <entry file="file://$PROJECT_DIR$/database/seeds/InitUserSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#34#110#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/AdminUserController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Exporters/AdminUserExporter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="495">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -83,14 +419,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>AuthController</find>
-      <find>controller_stub_path</find>
-      <find>AdminBase</find>
-      <find>grid_action_class</find>
-      <find>App\Admin\Extensions\BaseExtends</find>
-      <find>actionsCallback</find>
-      <find>actions</find>
-      <find>actionsCallbac</find>
       <find>appendActionsColumn</find>
       <find>prependRowSelectorColumn</find>
       <find>Huojunhao\LaraAdmin\BaseExtends\Plugins</find>
@@ -113,6 +441,14 @@
       <find>admin_</find>
       <find>AdminAdmin</find>
       <find>PluginConfig</find>
+      <find>$handle_type</find>
+      <find>uuid</find>
+      <find>get</find>
+      <find>defaultBootstrap</find>
+      <find>\Encore\Admin\</find>
+      <find>id</find>
+      <find>storage_path</find>
+      <find>storage</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -135,6 +471,10 @@
       <replace>tenancy_</replace>
       <replace>TenancyTenancy</replace>
       <replace>AdminAdminUser</replace>
+      <replace>$modal_tag</replace>
+      <replace>resource</replace>
+      <replace>resource_path</replace>
+      <replace>resources</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/vendor/encore/laravel-admin/src</dir>
@@ -147,6 +487,7 @@
       <dir>$PROJECT_DIR$/app/HttpTenancy</dir>
       <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/resources/views/tenancy</dir>
+      <dir>$PROJECT_DIR$/resources/hub</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -155,37 +496,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/HuoMake/HuoMakeOperFlow.php" />
-        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/HuoMakeStubs/oper_flowStubs/operate_flows_table_migrate.stub.php" />
-        <option value="$PROJECT_DIR$/app/HttpAdmin/routes/work_routes.php" />
-        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/model/TenancyUser.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/Extensions/TenancyException.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/Controllers/AdminUserController.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/Exporters/TenancyUserExporter.php" />
-        <option value="$PROJECT_DIR$/app/HttpAdmin/bootstrap.php" />
-        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/BaseExtends/AdminUtil.php" />
-        <option value="$PROJECT_DIR$/app/HttpAdmin/routes.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/routes/work_routes.php" />
-        <option value="$PROJECT_DIR$/config/tenancy.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/routes.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/Middleware/Pjax.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/Middleware/Bootstrap.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/Facades/Tenancy.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/Middleware/Authenticate.php" />
-        <option value="$PROJECT_DIR$/database/migrations/2016_01_04_173148_create_tenancy_tables.php" />
-        <option value="$PROJECT_DIR$/app/Providers/TenancyServiceProvider.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/bootstrap.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/helpers.php" />
-        <option value="$PROJECT_DIR$/resources/views/tenancy/login.blade.php" />
-        <option value="$PROJECT_DIR$/app/Models/Base/TenancyUser.php" />
-        <option value="$PROJECT_DIR$/database/seeds/InitTenancySeeder.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/Controllers/Base/AuthController.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/Extensions/Layout/Content.php" />
-        <option value="$PROJECT_DIR$/app/HttpTenancy/Controllers/HomeController.php" />
-        <option value="$PROJECT_DIR$/resources/views/tenancy/partials/header.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/tenancy/index.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/tenancy/partials/sidebar.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/tenancy/content.blade.php" />
         <option value="$PROJECT_DIR$/app/HttpTenancy/Tenancy.php" />
         <option value="$PROJECT_DIR$/app/HttpTenancy/Controllers/Base/TenancyBaseController.php" />
         <option value="$PROJECT_DIR$/resources/views/tenancy/partials/menu.blade.php" />
@@ -205,7 +515,38 @@
         <option value="$PROJECT_DIR$/tests/Browser/DevTest.php" />
         <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/BaseExtends/LogicTraits/Admin/AdminUserTrait.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/pieces/mysql_to_html.blade.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/bt3modals/modal_pieces/bt3modal_trigger.blade.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/bt3modals/bt3modal.blade.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/bt3modals/modal_pieces/operate_with_msg.blade.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/bt3modals/bt3modal_footer.blade.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/pieces/do_with_confirm.blade.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/BaseExtends/Widgets/OperateWithMsg.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/form/plain_form.blade.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/base.js" />
+        <option value="$PROJECT_DIR$/app/HttpAdmin/bootstrap.php" />
+        <option value="$PROJECT_DIR$/app/HttpAdmin/routes.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Tree.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Facades/Admin.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/base_js.blade.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/BaseExtends/AdminUtil.php" />
+        <option value="$PROJECT_DIR$/public/js/base.js" />
+        <option value="$PROJECT_DIR$/public/js/custom_admin.js" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/bt3modals/modal_pieces/operate_with_msg/operate_with_msg_js.blade.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/bt3modals/modal_pieces/operate_with_msg/operate_with_msg_modal.blade.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/pieces/bt3modal_trigger.blade.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/BaseExtends/Widgets/Bt3Modals/BaseBtp3Modal.php" />
+        <option value="$PROJECT_DIR$/app/HttpAdmin/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/storage/hub/huo-lib_dev/src/Console/HuoQuickPushHub.php" />
         <option value="$PROJECT_DIR$/.gitmodules" />
+        <option value="$PROJECT_DIR$/database/seeds/InitUserSeeder.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-lib_dev/composer.json" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-lara_admin/composer.json" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-generator/composer.json" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-dusk_extend/composer.json" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-lib/composer.json" />
       </list>
     </option>
   </component>
@@ -311,28 +652,25 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
       <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
       <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lib" />
-      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
-      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
-      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
-      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
-      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lib_dev" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/generator" />
       <path value="$PROJECT_DIR$/vendor/encore/laravel-admin" />
       <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
       <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
       <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
       <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
       <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin_generator" />
       <path value="$PROJECT_DIR$/vendor/facebook/webdriver" />
       <path value="$PROJECT_DIR$/vendor/laravel/dusk" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/dusk_extend" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/dusk_extend" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lib" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin" />
       <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin_generator" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin_generator" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/generator" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lib_dev" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/dusk_extend" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
@@ -346,6 +684,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -382,6 +723,13 @@
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="HttpAdmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="HttpAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
@@ -433,49 +781,77 @@
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
               <item name="hub" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-dusk_extend" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Browser" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-generator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lib_dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lib_dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="huojunhao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="CatdeaLogs" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571898235079" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571909249537" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -483,19 +859,19 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/storage" />
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/public/js" />
+      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin/src" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js/third" />
+      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/js" />
+      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/bt3modals/modal_pieces/operate_with_msg" />
       <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/HuoMakeStubs/areaStubs" />
       <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/BaseExtends/Plugins/Config" />
-      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin/src/BaseExtends/Plugins/Log" />
-      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin" />
-      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/Console/stubs/make" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/browser_test" />
-      <recent name="$PROJECT_DIR$/tests/Browser/Traits/Tenancy" />
-      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs" />
-      <recent name="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/HuoMakeStubs/tempTttStub" />
-      <recent name="$PROJECT_DIR$/tests/Browser/Traits/Admin" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -557,7 +933,9 @@
       <workItem from="1571743637953" duration="1772000" />
       <workItem from="1571810127558" duration="11796000" />
       <workItem from="1571826009142" duration="9974000" />
-      <workItem from="1571897216481" duration="946000" />
+      <workItem from="1571897216481" duration="8784000" />
+      <workItem from="1571906526795" duration="2729000" />
+      <workItem from="1571915330318" duration="915000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1571313635833</created>
@@ -587,16 +965,24 @@
       <option name="project" value="LOCAL" />
       <updated>1571319247368</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add">
+      <created>1571898252348</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571898252348</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120141000" />
+    <option name="totallyTimeSpent" value="131623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4893617" visible="true" weight="0.2739628" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4893617" visible="true" weight="0.23175965" />
       <window_info id="Structure" order="1" sideWeight="0.5106383" side_tool="true" weight="0.26680973" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -616,6 +1002,7 @@
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -828,248 +1215,181 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Config/ConfigController.php">
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/pieces/do_with_confirm.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/plugins/logs.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/src/BaseExtends/Widgets/Bt3Modals/Btp3Modal.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/index.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/content.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/show/panel.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/grid/table.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/src/CusAdmin.php" />
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-245" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Mysql/MysqlBackupController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="41" column="116" selection-start-line="41" selection-start-column="110" selection-end-line="41" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Widgets/NormalLinkTrait.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/Base/AdminBaseController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/PluginTestTraits/PluginBaseTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/PluginTestTraits/ConfigTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/PluginTestTraits/LogTest.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/PluginTestTraits/MysqlTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Browser/ProdTest.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Browser/Traits/Admin/AdminBaseTraitTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Browser/Traits/Admin/AdminUserTraitTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="210">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <element signature="e#47#97#0#PHP" expanded="true" />
+            <element signature="e#469#491#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMakeStubs/moduleStubs/http_tenancy/routes/init_routes.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMakeStubs/moduleStubs/http_tenancy/helpers.php">
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2732" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMakeStubs/moduleStubs/provider.stub.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMakeStubs/moduleStubs/config_tenancy.stub.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMakeStubs/moduleStubs/migrate_tenancy.stub.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMakeStubs/moduleStubs/seeder.stub.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Console/Commands/Daily/PrimaryTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+        <state relative-caret-position="195">
+          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMakeStubs/tempTttStub/migrate_ttt.stub.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMake/Utils/HuoLaraAdminMakeBase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Console/Command.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-generator/src/HuoMake/Utils/HuoMakeTrait.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="148" column="23" selection-start-line="148" selection-start-column="23" selection-end-line="148" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-generator/src/HuoMake/Utils/HuoMakeBase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMakeStubs/moduleStubs/model_user.stub.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_10_23_195721_create_ttt_tables.php" />
-    <entry file="file://$PROJECT_DIR$/app/Providers/TttServiceProvider.php" />
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMakeStubs/moduleStubs/tenancy_view/partials/menu.blade.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMakeStubs/tempTttStub/model_user.stub.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_10_23_202037_create_ttt_tables.php" />
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/AdminSelector.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Browser/Traits/Tenancy/AuthTraitTest.php" />
-    <entry file="file://$PROJECT_DIR$/database/seeds/InitTttSeeder.php" />
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMakeStubs/moduleStubs/browser_test/AuthTraitTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Browser/Traits/Tenancy/TenancyBaseTraitTest.php" />
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_10_23_204958_create_tenancy_tables.php" />
-    <entry file="file://$PROJECT_DIR$/database/migrations/2016_01_04_173148_create_tenancy_tables.php" />
-    <entry file="file://$PROJECT_DIR$/tests/Browser/Traits/Tenancy/TenancyUserTraitTest.php" />
-    <entry file="file://$PROJECT_DIR$/app/HttpMerchant/Exporters/MerchantUserExporter.php" />
-    <entry file="file://$PROJECT_DIR$/app/HttpMerchant/Controllers/Base/MerchantBaseController.php" />
-    <entry file="file://$PROJECT_DIR$/app/HttpMerchant/Controllers/MerchantUserController.php" />
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMake/HuoMakeModule.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMakeStubs/moduleStubs/browser_test/TenancyBaseTraitTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <element signature="e#49#85#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3465">
-          <caret line="231" column="27" selection-start-line="231" selection-start-column="27" selection-end-line="231" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_10_23_145104_create_test_sys_cities_table.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Browser/DevTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#34#110#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/AdminUserController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/LogicTraits/Admin/AdminUserTrait.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
-          <folding>
-            <element signature="e#69#119#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Exporters/AdminUserExporter.php">
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/bootstrap.php" />
+    <entry file="file://$PROJECT_DIR$/public/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/public/js/admin_shim.js" />
+    <entry file="file://$PROJECT_DIR$/public/js/third/echarts.common.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <caret column="2046" lean-forward="true" selection-start-column="2046" selection-end-column="2046" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/HuoMake/HuoMakeArea.php">
+    <entry file="file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="94" column="14" selection-start-line="94" selection-start-column="14" selection-end-line="94" selection-end-column="14" />
+        <state relative-caret-position="165">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Traits/HasAssets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="257" column="5" lean-forward="true" selection-start-line="257" selection-start-column="5" selection-end-line="257" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Facades/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Tree.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4319" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Facades/Admin.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/src/ChildAdmin.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/routes.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Tree.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/src/Show.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/base_js.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/js/base.js" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/src/BaseExtends/AdminUtil.php" />
+    <entry file="file://$PROJECT_DIR$/public/js/custom_admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/form/plain_form.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/bt3modals/bt3modal_footer.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/bt3modals/bt3modal.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/bt3modals/modal_pieces/operate_with_msg/operate_with_msg_modal.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/pieces/bt3modal_trigger.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib/src/Base/Curl.php">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/src/BaseExtends/Widgets/OperateWithMsg.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/src/BaseExtends/Widgets/Bt3Modals/BaseBtp3Modal.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lara_admin/resources/views/base/bt3modals/modal_pieces/operate_with_msg/operate_with_msg_js.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lib_dev/src/Console/HuoQuickPushHub.php" />
+    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/InitUserSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitmodules">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/hub/huo-lib/src/Base/Curl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/huojunhao/lib/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/huojunhao/dusk_extend/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib_dev/src/LibDevServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib_dev/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-dusk_extend/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
         </state>
       </provider>
     </entry>

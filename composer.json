@@ -13,7 +13,6 @@
         "encore/laravel-admin": "^1.7",
         "fideloper/proxy": "^4.0",
         "huojunhao/lara_admin": "dev-master",
-        "huojunhao/lara_admin_generator": "dev-master",
         "huojunhao/lib": "dev-master",
         "laravel/framework": "^6.0",
         "maatwebsite/excel": "^3.1"
@@ -24,6 +23,7 @@
         "fzaninotto/faker": "^1.4",
         "huojunhao/dusk_extend": "dev-master",
         "huojunhao/generator": "dev-master",
+        "huojunhao/lara_admin_generator": "dev-master",
         "huojunhao/lib_dev": "dev-master",
         "laravel/dusk": "^5.5",
         "laravel/tinker": "^1.0",
@@ -72,29 +72,27 @@
     "repositories": [
         {
             "type": "path",
-            "url": "./storage/hub/huo-lib"
+            "url": "./resources/hub/huo-lib"
         },
         {
             "type": "path",
-            "url": "./storage/hub/huo-lib_dev"
+            "url": "./resources/hub/huo-lib_dev"
         },
         {
             "type": "path",
-            "url": "./storage/hub/huo-generator"
+            "url": "./resources/hub/huo-generator"
         },
         {
             "type": "path",
-            "url" : "./storage/hub/huo-lara_admin"
+            "url" : "./resources/hub/huo-lara_admin"
         },
         {
             "type": "path",
-            "url": "./storage/hub/huo-lara_admin_generator"
+            "url": "./resources/hub/huo-lara_admin_generator"
         },
         {
             "type": "path",
-            "url": "storage/hub/huo-dusk_extend"
+            "url": "resources/hub/huo-dusk_extend"
         }
-
-
     ]
 }

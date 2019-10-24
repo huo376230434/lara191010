@@ -96,28 +96,25 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
       <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
       <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lib" />
-      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
-      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
-      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
-      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
-      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lib_dev" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/generator" />
       <path value="$PROJECT_DIR$/vendor/encore/laravel-admin" />
       <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
       <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
       <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
       <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
       <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin_generator" />
       <path value="$PROJECT_DIR$/vendor/facebook/webdriver" />
       <path value="$PROJECT_DIR$/vendor/laravel/dusk" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/dusk_extend" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/dusk_extend" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lib" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin" />
       <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin_generator" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin_generator" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/generator" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lib_dev" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/dusk_extend" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />

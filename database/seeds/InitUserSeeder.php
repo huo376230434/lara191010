@@ -27,7 +27,6 @@ class InitUserSeeder extends Seeder
 
 
 
-
         }
 
 
