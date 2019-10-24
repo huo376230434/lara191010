@@ -7,3 +7,12 @@
 [submodule "storage/hub/huo-lib_dev"]
 	path = storage/hub/huo-lib_dev
 	url = https://git.dev.tencent.com/huo376230434/huo-lib_dev.git
+[submodule "storage/hub/huo-dusk_extend"]
+	path = storage/hub/huo-dusk_extend
+	url = https://git.dev.tencent.com/huo376230434/huo-dusk_extend.git
+[submodule "storage/hub/huo-lara_admin"]
+	path = storage/hub/huo-lara_admin
+	url = https://git.dev.tencent.com/huo376230434/huo-lara_admin.git
+[submodule "storage/hub/huo-lara_admin_generator"]
+	path = storage/hub/huo-lara_admin_generator
+	url = https://git.dev.tencent.com/huo376230434/huo-lara_admin_generator.git
