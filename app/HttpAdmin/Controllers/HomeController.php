@@ -7,7 +7,7 @@ use Encore\Admin\Controllers\Dashboard;
 use Encore\Admin\Layout\Column;
 use Encore\Admin\Layout\Content;
 use Encore\Admin\Layout\Row;
-use Huojunhao\LaraAdmin\BaseExtends\Widgets\OperateWithMsg;
+use Huojunhao\LaraAdmin\BaseExtends\Widgets\Bt3Modals\OperateWithMsg;
 
 class HomeController extends Controller
 {

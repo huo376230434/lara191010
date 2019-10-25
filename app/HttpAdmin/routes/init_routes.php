@@ -77,6 +77,12 @@ app('router')->group($attributes, function ($router) {
 
     $router->group(['namespace' => config('admin.route.namespace')],function(\Illuminate\Routing\Router $router){
 
+        //本地测试专用的路由
+        $router->any('/modal_tests',"Base\TestController@modals");
+        $router->any('/modalHandle',"Base\TestController@modalHandle");
+
+
+
 //ApiHelper
         $router->any('/apihelper/{model}/{method}/{primary?}',"Base\ApiHelperController@index");
 
