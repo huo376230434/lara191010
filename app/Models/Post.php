@@ -22,7 +22,39 @@ class Post extends BaseModel
 //            $model->indexTypeList()->delete();
 //        });
     }
+        
+        // 自动生成时间  2019-10-26 19:13
+   public function index(){
+         
+         dump(__METHOD__);
 
+         return true;
+   }
+        
+        // 自动生成时间  2019-10-26 19:13
+   public function test(){
+         
+         dump(__METHOD__);
 
+         return true;
+   }
+        
+        // 自动生成时间  2019-10-26 19:13
+   public function addd(){
+         
+         dump(__METHOD__);
+
+         return true;
+   }
+        
+        // 自动生成时间  2019-10-26 19:19
+   public function haha(){
+         
+         dump(__METHOD__);
+
+         return true;
+   }
+   
+   
 
 }
