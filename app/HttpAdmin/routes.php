@@ -10,6 +10,8 @@ Route::group([
     'middleware'    => config('admin.route.middleware'),
 ], function (Router $router) {
     require __DIR__."/routes/work_routes.php";
+    require __DIR__."/routes/auto_routes.php";
+
     $router->get('/', 'HomeController@index')->name('admin.home');
 });
 

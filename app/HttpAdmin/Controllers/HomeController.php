@@ -9,8 +9,15 @@ use Encore\Admin\Layout\Content;
 use Encore\Admin\Layout\Row;
 use Huojunhao\LaraAdmin\BaseExtends\Widgets\Bt3Modals\OperateWithMsg;
 
+/**
+ * Class HomeController
+ *
+ * @meddileware [ 'admin' , new Post() ]
+ * @package App\HttpAdmin\Controllers
+ */
 class HomeController extends Controller
 {
+
     public function index(Content $content)
     {
         return $content
@@ -34,4 +41,22 @@ class HomeController extends Controller
                 });
             });
     }
+
+    /**
+     * @method any
+     */
+    public function test()
+    {
+
+    }
+
+    /**
+     * @method post
+     */
+    public function testHandle()
+    {
+
+    }
+
+
 }
