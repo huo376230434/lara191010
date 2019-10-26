@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf3368b9-dbe6-413d-a2fd-b055f0426fd4" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/app/Services/BaseService.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/serviceStubs/unit_test.stub.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Unit/Models/PostTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-generator" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeMethods.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeControllerMethods.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeService.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeServiceMethods.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeBase.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeBase.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/serviceStubs/service.stub.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/serviceStubs/service.stub.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Feature/Traits/Admin/AdminBaseTraitTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/Traits/Admin/AdminBaseTraitTest.php" afterDir="false" />
-    </list>
+    <list default="true" id="bf3368b9-dbe6-413d-a2fd-b055f0426fd4" name="Default Changelist" comment="add" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,22 +29,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeServiceMethods.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-35">
-              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+            <state relative-caret-position="358">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Services/PostService.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/Unit/Services/PostTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="555">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -65,26 +47,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeModelMethods.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="449">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Unit/Models/PostTest.php">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/model_methodsStubs/model_unit_test.stub.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#7#42#0#PHP" expanded="true" />
+                <element signature="e#75#105#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Models/Post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            <state relative-caret-position="520">
+              <caret line="57" column="3" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -102,19 +88,7 @@
         <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeBase.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="433">
-              <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/serviceStubs/service.stub.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#6#41#0#PHP" expanded="true" />
-              </folding>
+              <caret line="164" selection-start-line="164" selection-end-line="164" />
             </state>
           </provider>
         </entry>
@@ -151,8 +125,8 @@
       <find>Dummy</find>
       <find>route.pre</find>
       <find>des_dir</find>
-      <find>command_param</find>
       <find>featu</find>
+      <find>command_param</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -253,12 +227,12 @@
         <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/model_methodsStubs/PostTest.php" />
         <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/model_methodsStubs/model_methods.stub.php" />
         <option value="$PROJECT_DIR$/tests/Unit/Models/PostTest.php" />
-        <option value="$PROJECT_DIR$/app/Models/Post.php" />
         <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/model_methodsStubs/model_unit_test.stub.php" />
         <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/serviceStubs/unit_test.stub.php" />
         <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeBase.php" />
         <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeServiceMethods.php" />
         <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeModelMethods.php" />
+        <option value="$PROJECT_DIR$/app/Models/Post.php" />
       </list>
     </option>
   </component>
@@ -555,7 +529,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572088303423" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572088936302" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -651,7 +625,7 @@
       <workItem from="1571988956389" duration="7409000" />
       <workItem from="1571999104612" duration="6566000" />
       <workItem from="1572006810693" duration="229000" />
-      <workItem from="1572076440158" duration="6760000" />
+      <workItem from="1572076440158" duration="7503000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1571313635833</created>
@@ -724,13 +698,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165223000" />
+    <option name="totallyTimeSpent" value="165966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4893617" visible="true" weight="0.24749643" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4893617" visible="true" weight="0.24749643" />
       <window_info id="Structure" order="1" sideWeight="0.5106383" side_tool="true" weight="0.26680973" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -760,7 +733,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info active="true" anchor="right" id="Terminal" order="9" visible="true" weight="0.33476394" />
+      <window_info anchor="right" id="Terminal" order="9" visible="true" weight="0.33476394" />
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" />
     </layout>
     <layout-to-restore>
@@ -1241,59 +1214,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/model_methodsStubs/model_unit_test.stub.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#7#42#0#PHP" expanded="true" />
-            <element signature="e#75#95#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeBase.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
-          <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Unit/Models/PostTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeModelMethods.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeServiceMethods.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Services/PostService.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeServiceMethods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/Unit/Services/PostTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="555">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeModelMethods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Unit/Models/PostTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/model_methodsStubs/model_unit_test.stub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#7#42#0#PHP" expanded="true" />
+            <element signature="e#75#105#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="57" column="3" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
         </state>
       </provider>
     </entry>
