@@ -8,7 +8,7 @@ use Laravel\Dusk\Browser;
 
 trait AdminBaseTraitTest{
 
-    use ApiHelperTraitTest;
+    use ApiHelperTraitTest,HaTeTraitTest;
 
 
     protected function AdminBase()
