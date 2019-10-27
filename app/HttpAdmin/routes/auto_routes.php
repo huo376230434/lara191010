@@ -1,4 +1,6 @@
 <?php
 
-$router->get("admin/test/{id}/{post}", "HomeController@test");
-$router->post("admin/testHandle", "HomeController@testHandle");
+$router->get("homes/test/{id}/{post}", "HomeController@test");
+
+$router->post("homes/test_handle", "HomeController@testHandle");
+

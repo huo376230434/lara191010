@@ -12,8 +12,8 @@ use Huojunhao\LaraAdmin\BaseExtends\Widgets\Bt3Modals\OperateWithMsg;
 
 /**
  * Class HomeController
- *
- * @middlewares_bf   testHandle => [ 'admin' , new \App\Models\Post() ] ;
+ *真用middleware时要把后边的_eg去掉
+ * @middlewares_eg   testHandle => [ 'admin' , new \App\Models\Post() ] ;
  *  test => [ 'admin' , new \App\Models\Post() ] ;
  *  index => [ 'admin' , new \App\Models\Post() ] ;
 
