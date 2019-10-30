@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/resources/hub/huo-dusk_extend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/resources/hub/huo-generator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/resources/hub/huo-lara_admin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/resources/hub/huo-lib" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/resources/hub/huo-lib_dev" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/hub/huo-dusk_extend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/hub/huo-dusk_extend_bf" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/hub/huo-generator" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/hub/huo-lara_admin" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/hub/huo-lara_admin_bf" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/hub/huo-lib" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/hub/huo-lib_dev" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/hub/用所选项目新建的文件夹/huo-dusk_extend_bf" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/hub/用所选项目新建的文件夹/huo-lara_admin_bf" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/hub/用所选项目新建的文件夹/huo-lara_admin_generator_bf" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/test/browser-extend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/storage/test/config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/hub/huo-uniapp_generator" vcs="Git" />
   </component>
 </project>

@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf3368b9-dbe6-413d-a2fd-b055f0426fd4" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/admin_controller_methodsStubs/browser_trait_test.stub.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/admin_controller_methodsStubs/controller.stub.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/admin_controller_methodsStubs/feature_trait_test.stub.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/views/haha.blade.php" afterDir="false" />
+    <list default="true" id="eef68c03-3142-4d8f-80b6-1bb26eb58e00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/test_refreshStubs/common_test.stub.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php-test-framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/HttpAdmin/routes/auto_routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/HttpAdmin/routes/auto_routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-generator" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeControllerMethods.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeControllerMethods.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-lara_admin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/AdminSelector.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/AdminSelector.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/HuoMakeAdminControllerMethods.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/HuoMakeAdminControllerMethods.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/admin_controller_methodsStubs/admin_controller_methods.stub.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Browser/Traits/Admin/AdminBaseTraitTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Browser/Traits/Admin/AdminBaseTraitTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Feature/Traits/Admin/AdminBaseTraitTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/Traits/Admin/AdminBaseTraitTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lara191010.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lara191010.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/alifonts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-lib/src/Base/FileUtil.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-lib/src/Base/FileUtil.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/HuoMakeComponent.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/HuoMakeComponent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/HuoMakeTestRefresh.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/HuoMakeTestRefresh.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/componentStubs/component.stub.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/componentStubs/component.stub.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/componentStubs/component_test.stub.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/componentStubs/component_test.stub.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/test_refreshStubs/test.stub.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/test_refreshStubs/test.stub.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/test_refreshStubs/test_refresh.stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Browser/Traits/Admin/HahaTraitTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Browser/Traits/Admin/HahaTraitTest.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,104 +34,97 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/lara191010$routes.xml" NAME="routes Coverage Results" MODIFIED="1572169062454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/lara191010$APiHelperTest.xml" NAME="APiHelperTest Coverage Results" MODIFIED="1571920126100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/HuoMakeAdminControllerMethods.php">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/HuoMakeTestRefresh.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1935">
-              <caret line="131" column="5" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
+            <state relative-caret-position="270">
+              <caret line="18" column="44" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="44" />
+              <folding>
+                <element signature="e#53#85#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeControllerMethods.php">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/HuoMakeComponent.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="96" column="9" lean-forward="true" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
+            <state relative-caret-position="266">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/HaTeController.php">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeTrait.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
-              <folding>
-                <element signature="e#45#100#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="-804">
+              <caret line="100" column="23" selection-start-line="100" selection-start-column="23" selection-end-line="100" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/HttpAdmin/routes/auto_routes.php">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib/src/Base/FileUtil.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="1035">
+              <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/admin/views/haha.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/test_refreshStubs/test.stub.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            <state relative-caret-position="300">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Browser/Traits/Admin/HahaTraitTest.php">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/componentStubs/component.stub.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-              <folding>
-                <element signature="e#47#97#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/AdminSelector.php">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/areaStubs/area_seeder.stub.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+            <state relative-caret-position="75">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Browser/Traits/Admin/ModalsTraitTest.php">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/componentStubs/component_test.stub.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+            <state relative-caret-position="15">
+              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/admin_controller_methodsStubs/browser_trait_test.stub.php">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/Utils/HuoUniappMakeBase.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="405">
+              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Feature/Traits/Admin/HaTeTraitTest.php">
+        <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeBase.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+            <state relative-caret-position="480">
+              <caret line="35" selection-start-line="35" selection-end-line="44" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -134,268 +133,152 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>trans('tenancy</find>
-      <find>credentials do not match our records</find>
-      <find>admin.</find>
-      <find>admin_</find>
-      <find>AdminAdmin</find>
-      <find>PluginConfig</find>
-      <find>$handle_type</find>
-      <find>uuid</find>
-      <find>get</find>
-      <find>defaultBootstrap</find>
-      <find>\Encore\Admin\</find>
-      <find>id</find>
-      <find>storage_path</find>
-      <find>storage</find>
-      <find>file_g</find>
-      <find>file_ge</find>
-      <find>dwfaker_methods</find>
-      <find>appendToFileIfNotExist</find>
-      <find>make_stub</find>
-      <find>DDD</find>
-      <find>Dummy</find>
-      <find>route.pre</find>
-      <find>des_dir</find>
-      <find>featu</find>
       <find>command_param</find>
-      <find>Artis</find>
-      <find>getVarByMethodComment</find>
-      <find>file_p</find>
-      <find>dump</find>
-      <find>module_routes</find>
+      <find>dum</find>
+      <find>getTemplateStr</find>
     </findStrings>
     <replaceStrings>
-      <replace />
-      <replace>Huojunhao</replace>
-      <replace>Huojunhao\LaraAdmin</replace>
-      <replace>Huojunhao\LaraAdmin\BaseExtends</replace>
-      <replace>Base</replace>
-      <replace>Mysql</replace>
-      <replace>PluginMysql</replace>
-      <replace>PluginLog</replace>
-      <replace>DummySimpleName</replace>
-      <replace>DummyModuleName</replace>
-      <replace>DummyModule</replace>
-      <replace>DummyModel</replace>
-      <replace>module</replace>
-      <replace>DummyAreaTable</replace>
-      <replace>HttpTenancy</replace>
-      <replace>trans('admin</replace>
-      <replace>tenancy.</replace>
-      <replace>tenancy_</replace>
-      <replace>TenancyTenancy</replace>
-      <replace>AdminAdminUser</replace>
-      <replace>$modal_tag</replace>
-      <replace>resource</replace>
-      <replace>resource_path</replace>
-      <replace>resources</replace>
-      <replace>modalName</replace>
-      <replace>modal_name</replace>
-      <replace>\$</replace>
-      <replace>methods</replace>
+      <replace>component</replace>
     </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/vendor/encore/laravel-admin/src</dir>
-      <dir>$PROJECT_DIR$/config</dir>
-      <dir>$PROJECT_DIR$/storage/hub/huo-lara_admin/src/BaseExtends</dir>
-      <dir>$PROJECT_DIR$/storage/hub/huo-lara_admin</dir>
-      <dir>$PROJECT_DIR$/vendor/encore/laravel-admin</dir>
-      <dir>$PROJECT_DIR$/storage/hub/huo-generator/src/HuoMake</dir>
-      <dir>$PROJECT_DIR$/storage/hub/huo-lara_admin_generator/src/HuoMakeStubs/areaStubs</dir>
-      <dir>$PROJECT_DIR$/app/HttpTenancy</dir>
-      <dir>$PROJECT_DIR$/resources/views/tenancy</dir>
-      <dir>$PROJECT_DIR$/resources/hub</dir>
-      <dir>$PROJECT_DIR$/resources/hub/huo-lara_admin_generator</dir>
-      <dir>$PROJECT_DIR$/resources/hub/huo-generator</dir>
-      <dir>$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake</dir>
-      <dir>$PROJECT_DIR$/vendor</dir>
-      <dir>$PROJECT_DIR$</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/resources/hub/huo-generator" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/resources/hub/huo-uniapp_generator" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/methodsStubs/feature_test.stub.php" />
-        <option value="$PROJECT_DIR$/tests/Feature/Admin/ApiHelperTest.php" />
-        <option value="$PROJECT_DIR$/tests/Feature/ProjectTestBase.php" />
-        <option value="$PROJECT_DIR$/tests/Feature/ProdTest.php" />
-        <option value="$PROJECT_DIR$/tests/Feature/Traits/Admin/ApiHelperTest.php" />
-        <option value="$PROJECT_DIR$/tests/Feature/DevTest.php" />
-        <option value="$PROJECT_DIR$/tests/Feature/Traits/Admin/ApiHelperTraitTest.php" />
-        <option value="$PROJECT_DIR$/app/HttpAdmin/Controllers/AdminHahaController.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/methodsStubs/feature_trait_test.stub.php" />
-        <option value="$PROJECT_DIR$/tests/Feature/Traits/Admin/AdminHahaTraitTest.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeMethods.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-lib_dev/src/Console/HuoQuickPushHub.php" />
-        <option value="$PROJECT_DIR$/config/admin.php" />
-        <option value="$PROJECT_DIR$/app/Services/BaseService.php" />
-        <option value="$PROJECT_DIR$/tests/Unit/Services/BaseServiceTest.php" />
-        <option value="$PROJECT_DIR$/app/Services/TestService.php" />
-        <option value="$PROJECT_DIR$/tests/Unit/Services/TestServiceTest.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/serviceStubs/service.stub.php" />
-        <option value="$PROJECT_DIR$/tests/Unit/Services/TestTTTTest.php" />
-        <option value="$PROJECT_DIR$/app/Services/TTTService.php" />
-        <option value="$PROJECT_DIR$/tests/Unit/Services/TestHahaHtwTest.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/model_methodsStubs/PostTest.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/model_methodsStubs/model_methods.stub.php" />
-        <option value="$PROJECT_DIR$/tests/Unit/Models/PostTest.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/model_methodsStubs/model_unit_test.stub.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/serviceStubs/unit_test.stub.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeServiceMethods.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeModelMethods.php" />
-        <option value="$PROJECT_DIR$/app/Models/Post.php" />
-        <option value="$PROJECT_DIR$/app/HttpAdmin/routes.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/routes/auto_routes.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/routes.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/UniappGeneratorServiceProvider.php" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/Utils/HuoUniappMakeBase.php" />
         <option value="$PROJECT_DIR$/resources/hub/huo-lib/src/Base/FileUtil.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/LogicTraits/Admin/ApiHelperTrait.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-lib/src/Utils/ParseComments.php" />
-        <option value="$PROJECT_DIR$/app/HttpAdmin/Controllers/HomeController.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/methodsStubs/controller.stub.php" />
-        <option value="$PROJECT_DIR$/tests/Feature/Traits/Admin/TestTraitTest.php" />
-        <option value="$PROJECT_DIR$/app/HttpAdmin/Controllers/TestController.php" />
-        <option value="$PROJECT_DIR$/app/HttpAdmin/routes/auto_routes.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeBase.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeAutoRoute.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/admin_controller_methodsStubs/browser_trait_test.stub.php" />
-        <option value="$PROJECT_DIR$/tests/Browser/Traits/Admin/AdminBaseTraitTest.php" />
-        <option value="$PROJECT_DIR$/tests/Feature/Traits/Admin/AdminBaseTraitTest.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeControllerMethods.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/HuoMakeAdminControllerMethods.php" />
-        <option value="$PROJECT_DIR$/app/HttpAdmin/Controllers/HaTeController.php" />
-        <option value="$PROJECT_DIR$/resources/views/admin/views/haha.blade.php" />
-        <option value="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/AdminSelector.php" />
-        <option value="$PROJECT_DIR$/tests/Browser/Traits/Admin/HahaTraitTest.php" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/componentStubs/component.stub.vue" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/componentStubs/component_test.stub.vue" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/test_refreshStubs/common_test.stub.vue" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/HuoMakeTestRefresh.php" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/test_refreshStubs/test.stub.vue" />
+        <option value="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/HuoMakeComponent.php" />
       </list>
     </option>
   </component>
-  <component name="PhpServers">
-    <servers>
-      <server host="127.0.0.1" id="39324baf-def0-4ba5-9e14-a0b1f2d990ed" name="127.0.0.1" port="8000" />
-    </servers>
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+  <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
-      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
-      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
-      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
-      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
       <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
-      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
-      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
       <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
       <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
       <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
-      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
       <path value="$PROJECT_DIR$/vendor/filp/whoops" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
-      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/encore/laravel-admin" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
-      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
-      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
-      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
-      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
-      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
-      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
-      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
-      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
-      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
-      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
-      <path value="$PROJECT_DIR$/vendor/composer" />
-      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
-      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
-      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
-      <path value="$PROJECT_DIR$/vendor/symfony/console" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
-      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
-      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
-      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
-      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
-      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
-      <path value="$PROJECT_DIR$/vendor/symfony/process" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
       <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
       <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/laravel/dusk" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin_generator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/generator" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/facebook/webdriver" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lib_dev" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/dusk_extend" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
       <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
       <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
-      <path value="$PROJECT_DIR$/vendor/opis/closure" />
-      <path value="$PROJECT_DIR$/vendor/psr/container" />
-      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
       <path value="$PROJECT_DIR$/vendor/psr/log" />
-      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
-      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
-      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
-      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
-      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
-      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
-      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
-      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
-      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
-      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
-      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
-      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
-      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
-      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
-      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
-      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
-      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
-      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
-      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
-      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
-      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
-      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
-      <path value="$PROJECT_DIR$/vendor/encore/laravel-admin" />
-      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
-      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
-      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
-      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
       <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
-      <path value="$PROJECT_DIR$/vendor/facebook/webdriver" />
-      <path value="$PROJECT_DIR$/vendor/laravel/dusk" />
-      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/huojunhao/lib" />
-      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
-      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
-      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
-      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lara_admin_generator" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/generator" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/lib_dev" />
-      <path value="$PROJECT_DIR$/vendor/huojunhao/dusk_extend" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/huojunhao/uniapp_generator" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
@@ -406,55 +289,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="CatdeaLogs" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="HttpAdmin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="HttpAdmin" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="HttpAdmin" type="462c0819:PsiDirectoryNode" />
-              <item name="Exporters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="HttpAdmin" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
@@ -496,7 +339,31 @@
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="hub" type="462c0819:PsiDirectoryNode" />
-              <item name="huo-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin_generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HuoMake" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin_generator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HuoMakeStubs" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -505,96 +372,104 @@
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="hub" type="462c0819:PsiDirectoryNode" />
-              <item name="huo-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-lara_admin_generator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HuoMakeStubs" type="462c0819:PsiDirectoryNode" />
-              <item name="methodsStubs" type="462c0819:PsiDirectoryNode" />
+              <item name="areaStubs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-uniapp_generator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-uniapp_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-uniapp_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HuoMake" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-uniapp_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HuoMake" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-uniapp_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HuoMakeStubs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-uniapp_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HuoMakeStubs" type="462c0819:PsiDirectoryNode" />
+              <item name="componentStubs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hub" type="462c0819:PsiDirectoryNode" />
+              <item name="huo-uniapp_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HuoMakeStubs" type="462c0819:PsiDirectoryNode" />
+              <item name="test_refreshStubs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara191010" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Browser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Browser" type="462c0819:PsiDirectoryNode" />
-              <item name="Admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Feature" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara191010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara191010" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Feature" type="462c0819:PsiDirectoryNode" />
-              <item name="Admin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="CatdeaLogs" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572177111584" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572429171725" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/admin_controller_methodsStubs" />
-      <recent name="$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/routes" />
-      <recent name="$PROJECT_DIR$/app/HttpAdmin/routes" />
-      <recent name="$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/model_methodsStubs" />
-      <recent name="$PROJECT_DIR$/tests/Unit/Models" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources/views/modals" />
-      <recent name="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Widgets/Bt3Modals" />
-      <recent name="$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/Widgets" />
-      <recent name="$PROJECT_DIR$/resources/hub/huo-lara_admin/resources/views/base/bt3modals" />
-      <recent name="$PROJECT_DIR$/public/js/third" />
+      <recent name="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/test_refreshStubs" />
+      <recent name="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/componentStubs" />
+      <recent name="$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -609,180 +484,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHPUnit.routes">
-    <configuration name="APiHelperTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner class="Tests\Feature\Admin\ApiHelperTest" file="$PROJECT_DIR$/tests/Feature/Admin/ApiHelperTest.php" scope="Class" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
-    <configuration name="routes" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner directory="$PROJECT_DIR$/app/HttpAdmin/routes" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hg:adminc" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/artisan" scriptParameters="hga:adminc Post">
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="PHP Script.hg:adminc" />
-      <item itemvalue="PHPUnit.APiHelperTest" />
-      <item itemvalue="PHPUnit.phpunit.xml" />
-      <item itemvalue="PHPUnit.routes" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="PHPUnit.routes" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",Show Fields" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf3368b9-dbe6-413d-a2fd-b055f0426fd4" name="Default Changelist" comment="" />
-      <created>1570689642629</created>
+      <changelist id="eef68c03-3142-4d8f-80b6-1bb26eb58e00" name="Default Changelist" comment="" />
+      <created>1572419079355</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570689642629</updated>
-      <workItem from="1570689646440" duration="4313000" />
-      <workItem from="1570770870077" duration="16870000" />
-      <workItem from="1570969227582" duration="255000" />
-      <workItem from="1571042149700" duration="4844000" />
-      <workItem from="1571051615502" duration="2314000" />
-      <workItem from="1571119487275" duration="12040000" />
-      <workItem from="1571135214001" duration="3754000" />
-      <workItem from="1571211565562" duration="8425000" />
-      <workItem from="1571226406674" duration="616000" />
-      <workItem from="1571227027259" duration="169000" />
-      <workItem from="1571233303989" duration="24000" />
-      <workItem from="1571296458794" duration="9606000" />
-      <workItem from="1571312153033" duration="7621000" />
-      <workItem from="1571385778155" duration="494000" />
-      <workItem from="1571617265373" duration="824000" />
-      <workItem from="1571628372094" duration="12348000" />
-      <workItem from="1571724450613" duration="3666000" />
-      <workItem from="1571729917020" duration="7470000" />
-      <workItem from="1571743637953" duration="1772000" />
-      <workItem from="1571810127558" duration="11796000" />
-      <workItem from="1571826009142" duration="9974000" />
-      <workItem from="1571897216481" duration="8784000" />
-      <workItem from="1571906526795" duration="2729000" />
-      <workItem from="1571915330318" duration="4319000" />
-      <workItem from="1571920293400" duration="55000" />
-      <workItem from="1571921286550" duration="415000" />
-      <workItem from="1571980081655" duration="8762000" />
-      <workItem from="1571988956389" duration="7409000" />
-      <workItem from="1571999104612" duration="6566000" />
-      <workItem from="1572006810693" duration="229000" />
-      <workItem from="1572076440158" duration="11553000" />
-      <workItem from="1572160875942" duration="6229000" />
-      <workItem from="1572167849506" duration="7406000" />
-      <workItem from="1572177142666" duration="44000" />
+      <updated>1572419079355</updated>
+      <workItem from="1572419083181" duration="9612000" />
+      <workItem from="1572432430496" duration="4039000" />
     </task>
-    <task id="LOCAL-00001" summary="add">
-      <created>1571313635833</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1571313635833</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add">
-      <created>1571319079763</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1571319079763</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add">
-      <created>1571319188021</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1571319188021</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add">
-      <created>1571319247368</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1571319247368</updated>
-    </task>
-    <task id="LOCAL-00005" summary="add">
-      <created>1571898252348</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1571898252348</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="APiHelperTest - 2019.10.24 at 20h 16m 13s.xml">
-      <configuration name="APiHelperTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="APiHelperTest - 2019.10.24 at 20h 17m 18s.xml">
-      <configuration name="APiHelperTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="APiHelperTest - 2019.10.24 at 20h 19m 15s.xml">
-      <configuration name="APiHelperTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="APiHelperTest - 2019.10.24 at 20h 19m 38s.xml">
-      <configuration name="APiHelperTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="APiHelperTest - 2019.10.24 at 20h 20m 03s.xml">
-      <configuration name="APiHelperTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="APiHelperTest - 2019.10.24 at 20h 21m 26s.xml">
-      <configuration name="APiHelperTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="APiHelperTest - 2019.10.24 at 20h 28m 43s.xml">
-      <configuration name="APiHelperTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="APiHelperTest - 2019.10.24 at 20h 28m 46s.xml">
-      <configuration name="APiHelperTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="APiHelperTest - 2019.10.24 at 20h 31m 22s.xml">
-      <configuration name="APiHelperTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="routes - 2019.10.27 at 17h 37m 42s.xml">
-      <configuration name="routes" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183695000" />
+    <option name="totallyTimeSpent" value="13651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4893617" visible="true" weight="0.24391988" />
-      <window_info id="Structure" order="1" sideWeight="0.5106383" side_tool="true" weight="0.26680973" />
-      <window_info id="npm" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23891273" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
+      <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.32907802" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="PHP-CGI Server" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="npm" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -792,535 +540,150 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info active="true" anchor="right" id="Terminal" order="9" visible="true" weight="0.2732475" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" />
+      <window_info active="true" anchor="right" id="Terminal" order="9" visible="true" weight="0.34477827" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992908" visible="true" weight="0.24821173" />
-      <window_info id="Structure" order="1" sideWeight="0.50070924" side_tool="true" weight="0.2532189" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Maven" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Terminal" order="9" visible="true" weight="0.32188842" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/Console/MakeControllerCommand.php</url>
-          <line>111</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/Console/MakeControllerCommand.php</url>
-          <line>389</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/Console/MakeControllerCommand.php</url>
-          <line>231</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/Console/MakeControllerCommand.php</url>
-          <line>432</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/Console/MakeControllerCommand.php</url>
-          <line>148</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_generator_bf/src/Console/MakeControllerCommand.php</url>
-          <line>93</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Grid/Concerns/HasActions.php</url>
-          <line>121</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Layout/Content.php</url>
-          <line>274</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/Grid.php</url>
-          <line>69</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/Grid/Displayers/Actions.php</url>
-          <line>26</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Grid.php</url>
-          <line>587</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Grid.php</url>
-          <line>590</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Grid/Column.php</url>
-          <line>876</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Grid/Column.php</url>
-          <line>539</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lib/src/Database/MysqlMaintenance.php</url>
-          <line>65</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Log/LogController.php</url>
-          <line>18</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Log/LogController.php</url>
-          <line>25</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Log/LogController.php</url>
-          <line>59</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Log/LogViewer.php</url>
-          <line>94</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Log/LogViewer.php</url>
-          <line>134</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Log/LogViewer.php</url>
-          <line>122</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Log/LogViewer.php</url>
-          <line>150</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Log/LogViewer.php</url>
-          <line>172</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Log/LogViewer.php</url>
-          <line>244</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Log/LogViewer.php</url>
-          <line>281</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/Log/LogViewer.php</url>
-          <line>320</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/storage/hub/huo-lara_admin_bf/src/BaseExtends/Plugins/PluginTestTraits/PluginBaseTest.php</url>
-          <line>19</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/vendor/encore/laravel-admin/src/Controllers/AuthController.php</url>
-          <line>43</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/app/HttpTenancy/Tenancy.php</url>
-          <line>30</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/app/HttpTenancy/Controllers/Base/AuthController.php</url>
-          <line>72</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/model_methodsStubs/model_unit_test.stub.php">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#7#42#0#PHP" expanded="true" />
-            <element signature="e#75#105#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="481">
+          <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/routes/init_routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="e#7#42#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/routes/work_routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/moduleStubs/http_tenancy/routes/auto_routes.php">
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/GeneratorServiceProviderTrait.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/Utils/MakeException.php" />
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/HuoMakeAdminControllerMethods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="e#56#124#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/Utils/HuoLaraAdminMakeBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/LaraAdminGeneratorServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/test_refreshStubs/common_test.stub.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/UniappGeneratorServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="96" selection-start-line="27" selection-start-column="96" selection-end-line="27" selection-end-column="96" />
+          <folding>
+            <element signature="e#80#134#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib/src/Base/FileUtil.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+        <state relative-caret-position="1035">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib/src/Base/FormatConversion.php">
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Str.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-785" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib/src/Base/RegPatterns.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="7290">
+          <caret line="490" column="27" selection-start-line="490" selection-start-column="27" selection-end-line="490" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib/src/Base/UrlUtil.php">
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/Utils/HuoUniappMakeBase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-706" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib/src/Base/ScatteredUtil.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2180" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib/src/Utils/ParseComments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        <state relative-caret-position="405">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/LogicTraits/Admin/ApiHelperTrait.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib/src/LogicTraits/CodeCheckTrait.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/Reflection/Reflection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="1007" column="20" selection-start-line="1007" selection-start-column="20" selection-end-line="1007" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/routes/work_routes.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lib/src/Route/RouteUtil.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="81" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeServiceMethods.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="74" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestResponse.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="375" column="20" selection-start-line="375" selection-start-column="20" selection-end-line="375" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/TestController.php" />
-    <entry file="file://$PROJECT_DIR$/tests/Feature/Traits/Admin/PostTestTraitTest.php" />
-    <entry file="file://$PROJECT_DIR$/tests/Feature/Traits/Admin/TestTraitTest.php" />
     <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeBase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="187" column="7" selection-start-line="187" selection-start-column="7" selection-end-line="187" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeModels.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="192" column="31" selection-start-line="192" selection-start-column="31" selection-end-line="192" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeAutoRoute.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-          <folding>
-            <element signature="e#47#83#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/PostTestController.php" />
-    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#45#81#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeMake.php">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          <caret line="35" selection-start-line="35" selection-end-line="44" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/PostController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding>
-            <element signature="e#45#100#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/methodsStubs/controller.stub.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/makeControllerStubs/controller.stub.php">
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/test_refreshStubs/test_refresh.stub.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/admin_controller_methodsStubs/controller.stub.php">
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/areaStubs/area_seeder.stub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/componentStubs/component.stub.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/componentStubs/component_test.stub.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/Utils/HuoMakeTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-804">
+          <caret line="100" column="23" selection-start-line="100" selection-start-column="23" selection-end-line="100" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/test_refreshStubs/common_test.stub.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/HuoMakeTestRefresh.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="e#53#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMakeStubs/test_refreshStubs/test.stub.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMakeStubs/methodsStubs/feature_trait_test.stub.php">
+    <entry file="file://$PROJECT_DIR$/resources/hub/huo-uniapp_generator/src/HuoMake/HuoMakeComponent.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Browser/Traits/Admin/AdminBaseTraitTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Browser/Traits/Admin/AdminUserTraitTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/admin_controller_methodsStubs/feature_trait_test.stub.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/HahaController.php" />
-    <entry file="file://$PROJECT_DIR$/tests/Browser/Traits/Admin/HaTeTraitTest.php" />
-    <entry file="file://$PROJECT_DIR$/tests/Feature/Traits/Admin/AdminBaseTraitTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#47#83#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMake/HuoMakeAdminControllerMethods.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1935">
-          <caret line="131" column="5" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/views/haha.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin/src/BaseExtends/AdminSelector.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Browser/Traits/Admin/ModalsTraitTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-lara_admin_generator/src/HuoMakeStubs/admin_controller_methodsStubs/browser_trait_test.stub.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Feature/Traits/Admin/HaTeTraitTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Browser/Traits/Admin/HahaTraitTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding>
-            <element signature="e#47#97#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/routes/auto_routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HttpAdmin/Controllers/HaTeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
-          <folding>
-            <element signature="e#45#100#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hub/huo-generator/src/HuoMake/HuoMakeControllerMethods.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="96" column="9" lean-forward="true" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
+        <state relative-caret-position="266">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
         </state>
       </provider>
     </entry>

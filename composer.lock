@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ce2bb1bb7a0b23218da203349c001570",
+    "content-hash": "bd7e77fcfaf1fd355a601c9aa2303351",
     "packages": [
         {
             "name": "doctrine/cache",
@@ -5045,6 +5045,32 @@
             }
         },
         {
+            "name": "huojunhao/uniapp_generator",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "resources/hub/huo-uniapp_generator",
+                "reference": "326e4c503f45f48deb3c220f621019575a37e3f1",
+                "shasum": null
+            },
+            "require": {
+                "laravel/framework": ">=5.8"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Huojunhao\\UniappGenerator\\UniappGeneratorServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Huojunhao\\UniappGenerator\\": "src/"
+                }
+            }
+        },
+        {
             "name": "jakub-onderka/php-console-color",
             "version": "v0.2",
             "source": {
@@ -7442,7 +7468,8 @@
         "huojunhao/dusk_extend": 20,
         "huojunhao/generator": 20,
         "huojunhao/lara_admin_generator": 20,
-        "huojunhao/lib_dev": 20
+        "huojunhao/lib_dev": 20,
+        "huojunhao/uniapp_generator": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,

@@ -25,6 +25,7 @@
         "huojunhao/generator": "dev-master",
         "huojunhao/lara_admin_generator": "dev-master",
         "huojunhao/lib_dev": "dev-master",
+        "huojunhao/uniapp_generator": "dev-master",
         "laravel/dusk": "^5.5",
         "laravel/tinker": "^1.0",
         "mockery/mockery": "^1.0",
@@ -93,6 +94,11 @@
         {
             "type": "path",
             "url": "resources/hub/huo-dusk_extend"
+        },
+        {
+            "type": "path",
+            "url": "resources/hub/huo-uniapp_generator"
         }
+
     ]
 }

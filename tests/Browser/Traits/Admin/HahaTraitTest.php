@@ -13,8 +13,6 @@ use Laravel\Dusk\Browser;
 trait HahaTraitTest{
 
 
-
-
     /**
      *
      * @group only_view
@@ -26,8 +24,6 @@ trait HahaTraitTest{
             $browser
                 //todo
                 ->assertSeeIn(AdminSelector::contentWrapper(),"Hate");
-
-
 
         },$this->AdminUrl('ha_tes/view'));
     }
