@@ -1,0 +1,34 @@
+{
+    "name": "laravel-admin-ext/db-diff",
+    "description": "A diff tool for structure of database tables",
+    "type": "library",
+    "keywords": ["laravel-admin", "extension"],
+    "homepage": "https://github.com/laravel-admin-ext/db-diff",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "z-song",
+            "email": "zosong@126.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "encore/laravel-admin": "~1.6",
+        "sebastian/diff": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Encore\\Admin\\DBDiff\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Encore\\Admin\\DBDiff\\DBDiffServiceProvider"
+            ]
+        }
+    }
+}
