@@ -10,11 +10,13 @@
     "require": {
         "php": "^7.2",
         "ext-json": "*",
+        "ext-xmlwriter": "*",
         "encore/laravel-admin": "^1.7",
         "fideloper/proxy": "^4.0",
         "huojunhao/lara_admin": "dev-master",
         "huojunhao/lib": "dev-master",
         "laravel/framework": "^6.0",
+        "laravel/horizon": "^3.4",
         "maatwebsite/excel": "^3.1"
     },
     "require-dev": {

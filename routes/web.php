@@ -17,5 +17,8 @@ Route::get('/sign',function (){
        'id' => '444'
    ]) ;
 });
+Route::get('/haha',function (){
+    echo "enen";
+});
 
 $router->any('/apihelper/{model}/{method}/{primary?}',"ApiHelperController@index");
